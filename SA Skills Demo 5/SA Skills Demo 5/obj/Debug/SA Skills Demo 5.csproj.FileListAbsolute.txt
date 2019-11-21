@@ -1,0 +1,6 @@
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Software Architecture\Skills Demo 5\SA Skills Demo 5\SA Skills Demo 5\bin\Debug\SA Skills Demo 5.exe.config
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Software Architecture\Skills Demo 5\SA Skills Demo 5\SA Skills Demo 5\bin\Debug\SA Skills Demo 5.exe
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Software Architecture\Skills Demo 5\SA Skills Demo 5\SA Skills Demo 5\bin\Debug\SA Skills Demo 5.pdb
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Software Architecture\Skills Demo 5\SA Skills Demo 5\SA Skills Demo 5\obj\Debug\SA Skills Demo 5.csprojResolveAssemblyReference.cache
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Software Architecture\Skills Demo 5\SA Skills Demo 5\SA Skills Demo 5\obj\Debug\SA Skills Demo 5.exe
+C:\Users\James_2\OneDrive\Comp Science 16-17\K Quille\Software Architecture\Skills Demo 5\SA Skills Demo 5\SA Skills Demo 5\obj\Debug\SA Skills Demo 5.pdb
